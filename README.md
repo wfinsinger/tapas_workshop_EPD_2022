@@ -15,10 +15,8 @@ translated verbatim from CharAnalysis.
 
 
 ## The tutorial
-The following R script is meant to illustrate a simple workflow to perform
-trend and peak-detection analysis of macroscopic charcoal records. It is a slightly
-simplified version of the R script that was distributed to the participants of the
-"CharAnalysis in R" workshop during the EPD Meeting (03-04 June 2022, Prague, Czech Republic).
+The tutorial is meant to illustrate a simple workflow to perform
+trend and peak-detection analysis of macroscopic charcoal records. The tutorial R script (`tapas_workshop_EPD_2022.R`) is a slightly simplified version in comparison to the R script that was distributed to the participants of the "CharAnalysis in R" workshop during the EPD Meeting (03-04 June 2022, Prague, Czech Republic).
 
 In this tutorial, we'll be using the macroscopic charcoal record from
 Code Lake (Higuera et al., 2009). Please be aware that the tutorial shows
@@ -30,18 +28,20 @@ the so-called 'local threshold'. However, the tapas package also allows
 performing the anlysis with the so-called 'local' threshold, as does
 CharAnalysis.
 
+
+## How to use this repository
+1. Download the *.zip folder by clicking on the green button in the upper right corner (Code), or
+    download the `tapas_workshop_EPD_2022.R` file;
+2. Open the `tapas_workshop_EPD_2022.R` file;
+3. Run the script in R or RStudio.
+
+
 A brief sketch of the typical CharAnalysis workflow (and additions to that in the `tapas` package) is illustrated in the figure here below:
 ![Tapas_Flowchart_v012](Tapas_Flowchart_v012.png)
  
 
 ## Contributions
 This project is an open project, and contributions are welcome from any individual and issues and bug reports are always welcome. Code clean-up, and feature additions can be done either through pull requests to project forks or project branches, or by adding a new issue.
-
-
-## How to use this repository
-1. Download the *.zip folder by clicking on the green button in the upper right corner (Code);
-2. Open the "tapas_workshop_EPD_2022.R" file;
-3. Run the script.
 
 
 ## Cited references

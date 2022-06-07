@@ -31,8 +31,8 @@ performing the anlysis with the so-called 'local' threshold, as does
 CharAnalysis.
 
 A brief sketch of the typical CharAnalysis workflow (and additions to that in the `tapas` package) is illustrated in the figure here below:
-![Tapas_Flowchart_v012.drawio](Tapas_Flowchart_v012.drawio.png)
-
+![Tapas_Flowchart_v012](Tapas_Flowchart_v012.png)
+ 
 
 ## Contributions
 This project is an open project, and contributions are welcome from any individual and issues and bug reports are always welcome. Code clean-up, and feature additions can be done either through pull requests to project forks or project branches, or by adding a new issue.

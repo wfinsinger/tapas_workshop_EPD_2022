@@ -36,7 +36,7 @@ CharAnalysis.
 3. Run the script in R or RStudio.
 
 
-A brief sketch of the typical CharAnalysis workflow (and additions to that in the `tapas` package) is illustrated in the figure here below:
+A brief sketch of the typical CharAnalysis workflow (and additions to that in the `tapas` package) is illustrated in the figure here below: 
 ![Tapas_Flowchart_v012](Tapas_Flowchart_v012.png)
  
 
